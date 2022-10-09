@@ -1,10 +1,3 @@
-
-
-
-
-
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
 <h1 align="center">Hi 👋, I'm Uri</h1>
 <br>
 <h3 align="center">Engineering student in software development and management | UTTT Student</h3>
