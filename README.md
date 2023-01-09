@@ -4,7 +4,6 @@
 
 <br>
 <div align="center">
-	<img src="https://komarev.com/ghpvc/?username=UriSantillanPaz&color=blue&style=for-the-badge" alt="Profile views"/>
 	<img src="https://img.shields.io/github/followers/UriSantillanPaz?style=for-the-badge&logo=github&color=blue" alt="Github followers"/> 
 </div>
 
