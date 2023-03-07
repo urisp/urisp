@@ -3,10 +3,6 @@
 <h3 align="center">Engineering student in software development and management | UTTT Student</h3>
 
 <br>
-<div align="center">
-	<img src="https://img.shields.io/github/followers/UriSantillanPaz?style=for-the-badge&logo=github&color=blue" alt="Github followers"/> 
-</div>
-
 
 ## Connect with me
 
@@ -54,5 +50,6 @@
 <hr>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=urisantillanpaz&show_icons=true&locale=en" alt="urisantillanpaz" />
+<img src="https://github-readme-stats.vercel.app/api?username=urisp&show_icons=true&locale=en" alt="urisp" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=urisp&show_icons=true&locale=en&layout=compact" alt="urisp" />
 </div>
